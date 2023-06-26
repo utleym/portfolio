@@ -30,7 +30,7 @@ ul {
     list-style-type: none;
     width: 500px;
     justify-content: space-around;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 ul.show {
@@ -38,7 +38,6 @@ ul.show {
 }
 
 li {
-    /*width: 200px;*/
     text-decoration: none;
 }
 
@@ -183,7 +182,7 @@ a {
         border: 0;
         background-color: transparent;
         color: white;
-        font-size: 30px;
+        font-size: 60px;
         margin: 20px;
         align-self: flex-end;
     }
