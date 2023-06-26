@@ -192,7 +192,11 @@ hr {
 
 a {
     text-decoration: none;
-    color: black;
+    color: white;
+}
+
+.button a {
+    color: #1c1d25;
 }
 
 .hamburger {
