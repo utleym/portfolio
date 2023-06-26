@@ -94,7 +94,9 @@ p {
 }
 
 .socials {
-    padding-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
 }
 
 .logo {
